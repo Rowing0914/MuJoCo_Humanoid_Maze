@@ -1,0 +1,1 @@
+from humanoid_maze.envs.humanoid_maze import HumanoidMazeEnv
