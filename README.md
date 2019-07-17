@@ -18,4 +18,5 @@ This is the mujoco env originally created by Uber-Research. Since they don't see
 
 ## Reference
 
-- https://github.com/uber-research/deep-neuroevolution
+- how to create new openai env: https://medium.com/@apoddar573/making-your-own-custom-environment-in-gym-c3b65ff8cdaa
+- humanoid_maze: https://github.com/uber-research/deep-neuroevolution
